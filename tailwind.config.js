@@ -2,7 +2,12 @@ module.exports = {
   purge: [],
   darkMode: false, // or 'media' or 'class'
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        'dashboard': "url('/images/background/dash.png')",
+        'wave': "url('/images/background/wave.png')",
+      }
+    },
     fontSize: {
       'xs': '.75rem',
       'sm': '.875rem',
@@ -18,7 +23,15 @@ module.exports = {
       '7xl': '5rem',
       '8xl': '6rem',
       '9xl': '7.5rem',
-    }
+    },
+    backgroundSize: {
+      'auto': 'auto',
+      'cover': 'cover',
+      'contain': 'contain',
+      '50%': '50%',
+      '16': '4rem',
+      'full': '100% 100%',
+    },
   },
   variants: {
     extend: {},

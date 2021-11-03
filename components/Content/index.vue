@@ -28,7 +28,7 @@
                 <div
                     class="flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded"
                 >
-                    <div class="px-4 py-5 flex-auto">
+                    <div class="flex-auto">
                         <div class="tab-content tab-space">
                             <div v-bind:class="{ 'hidden': openTab !== 1, 'block': openTab === 1 }">
                                 <Page1></Page1>
