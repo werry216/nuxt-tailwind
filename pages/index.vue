@@ -8,6 +8,7 @@
 </template>
 
 <script>
+//here is the main part of the code
 import Header from "~/components/Header";
 import Dashboard from "~/components/Dashboard";
 import Footer from "~/components/Footer";
