@@ -1,5 +1,6 @@
 <template>
     <div class="w-full rounded-lg sahdow-lg flex flex-col justify-center items-center">
+        // this is the main contents...
         <div class="text-center">
             <p
                 class="mb-3 text-2xl text-gray-600"
