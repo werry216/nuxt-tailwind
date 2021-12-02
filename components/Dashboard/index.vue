@@ -4,6 +4,7 @@
         <p class="mb-3 text-5xl">Deine Job website</p>
       </div>
       <div class="mb-24">
+        // this is the background image...
         <img
           class="object-center object-cover rounded-full w-full"
           src="/images/dashboard/background.png"
