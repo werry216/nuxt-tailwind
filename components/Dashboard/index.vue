@@ -10,6 +10,11 @@
           src="/images/dashboard/background.png"
           alt="Undraw agreement"
         />
+        //<img
+        //  class="object-center object-cover rounded-full w-full"
+        //  src="/images/dashboard/background1.png"
+        //  alt="Undraw agreement"
+        // />
       </div>
     </div>
 </template>
