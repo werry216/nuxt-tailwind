@@ -1,4 +1,5 @@
 <template>
+    // this is the main content...
     <div class="bg-white shadow border-t-4 h-24 rounded-t-2xl fixed w-full bottom-0 flex flex-col justify-center">
       <div class="container mx-auto px-4">
         <div class="block bg-white py-2">
