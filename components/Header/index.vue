@@ -6,7 +6,7 @@
                     <a href="#" class="text-green-500 text-sm font-semibold mr-4">Login</a>
                 </div>
             </div>
-
+            // Here is the main content...
             <div class="block sm:hidden bg-white py-2">
                 <div class="flex flex-col">
                     <div class="flex justify-end items-center pt-2">
