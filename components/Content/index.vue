@@ -59,7 +59,10 @@ export default {
     },
     data() {
         return {
-            openTab: 1
+            openTab: 1,
+            newTab: 2,
+            updateTab: 3,
+            successTab: 4,
         }
     },
     methods: {
